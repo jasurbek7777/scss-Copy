@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Barlow", "Fraunces " sans-serif;
+  background-color: #fff;
+  font-size: 16px;
+  overflow-x: hidden !important;
+}
+
+*::after,
+::before {
+  box-sizing: inherit;
+}
+
+container {
+  max-width: ;
+  margin: 0 auto;
+  padding: 0 2px;
+}
